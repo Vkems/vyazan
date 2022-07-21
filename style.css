@@ -1,0 +1,233 @@
+
+.page {
+    max-width: 1000px;
+    margin: 42px auto 60px auto;
+    font-family: 'Arsenal', sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 67px;
+    margin-bottom: 78px;
+}
+
+.logo{
+    font-size: 46px;
+    line-height: 58px;
+    color: #5E2E2E;
+    text-transform: uppercase;
+}
+
+.header__menu {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    font-weight: 700;
+    padding-left: 0px;
+    text-transform: uppercase;
+
+}
+
+.header__menu a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.icon {
+    gap: 5px;
+    align-items: center;
+    margin: 0px 0px 2px -1px;
+    padding: 0px 0px 0;
+    border: 0px;
+    height: 48px;
+    background-color: white;
+}
+
+.menu_item {
+    padding: 10px;
+}
+
+.menu_item_focus {
+    padding: 10px;
+    background-color: #FFEFEF;
+}
+
+.title_page {
+    font-family: 'Open sans', sans-serif;
+    font-size: 140px;
+    line-height: 161px;
+    color: #000000;
+    font-weight: 400;
+    margin: -9px 0 0 0;
+    text-transform: uppercase;
+
+}
+
+.title_tag {
+    font-family: 'Open sans', sans-serif;
+    font-size: 17px;
+    line-height: 110.4%;
+    color: #000000;
+    margin: 0 0 0 0;
+
+}
+
+.galery {
+    padding: 0;
+    margin: 21px -4px 0px -66px;
+    display: flex;
+    width: 1000px;
+    align-items: flex-start;
+}
+
+
+.title_galery {
+    font-family: 'Open sans', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    width: 185px;
+    height: 66px;
+    bottom: 8px;
+    left: 16px;
+    margin: -118px 0px 0 281px;
+
+}
+
+.title_galery1 {
+    font-family: 'Open sans', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: -100px 0px 0 219px;
+    width: 185px;
+    height: 66px;
+}
+
+
+.title_galery2 {
+    font-family: 'Open sans', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: -446px 0 0 447px;
+    width: 185px;
+    height: 66px;
+    color: white;
+}
+
+.title_galery3 {
+    font-family: 'Open sans', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: -64px 0 0 780px;
+    width: 185px;
+    height: 66px;
+}
+
+
+
+
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.img {
+    margin: 0;
+    vertical-align: top;
+    
+}
+
+.text {
+    margin: 235px auto 0 148px;
+    font-size: 21px;
+    line-height: 140%;
+    width: 574px;
+}
+
+.button {
+    font-family: 'Arsenal', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 13px 25px;
+    gap: 10px;
+
+    background: #5D2E2E;
+    border-radius: 34px;
+    color: #FFEFEF;
+    font-size: 20px;
+    width: 194px;
+    height: 54px;
+
+    border: 0;
+
+    margin: 53px auto 134px 147px;
+
+}
+
+footer {
+    display: flex;
+    font-size: 14px;
+    line-height: 18px;
+
+}
+
+.footer_menu {
+    height: 220px;
+    display: flex;
+    padding: 45px auto 53px auto;
+    width: 878px;
+    text-transform: uppercase;
+
+}
+
+.footer__column_bold {
+    width: 81px;
+    display: flex;
+    gap: 10px;
+    font-weight: 700;
+    line-height: 180%;
+    text-transform: uppercase;
+
+}
+
+li {
+    list-style: none;
+}
+
+.list {
+    padding: 0px 61px 0px 0px;
+}
+
+.footer__column_normal {
+    display: flex;
+    gap: 10px;
+    width: 86px;
+    font-weight: 400;
+    line-height: 180%;
+    text-transform: uppercase;
+
+}
+
+.footer__ikon {
+    margin: 15px 45px 0px 35px;
+
+}
+
+.footer__smm {
+    margin: 4px 163px 0px 23px;
+    text-transform: uppercase;
+    
+
+}
+
+.footer__adress {
+    width: 140px;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: right;
+}
+
+
+
